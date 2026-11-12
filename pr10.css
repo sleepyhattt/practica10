@@ -20,7 +20,7 @@ body {
 
   width: 400%;
 
-  height: 70vh;
+  height: 100vh;
 
   display: flex;
 
@@ -58,7 +58,7 @@ body {
 
 #container .section .content .text {
 
-  margin-right: 70px;
+  margin-right: 50px;
 
   max-width: 400px;
 
